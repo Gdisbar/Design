@@ -23,5 +23,5 @@ ssh-keys.pub
 backups/
 
 # Ignore Unverified Codes
-All.md/
-Design_Notes.ipynb/
+All.md/*
+Design_Notes.ipynb/*
